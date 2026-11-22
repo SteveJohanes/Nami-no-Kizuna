@@ -34,7 +34,7 @@
 <td width="320" align="center">
 
 <!-- Replace with your favorite anime gif or image -->
-<img src="./assets/anime.gif" width="280" alt="anime" />
+<img src="./assets/miku.jfif" width="280" alt="anime" />
 
 <sub>✦ *Swap in your favorite character* ✦</sub>
 
