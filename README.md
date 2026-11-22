@@ -26,7 +26,7 @@
 
 <div align="center">
 
-## ⛩️ About me
+##  About me
 
 </div>
 
@@ -50,9 +50,9 @@ hobbies  : Anime, Manga, Coding, Coffee
 mission  : Build interfaces that make people say "wow"
 ```
 
-- 🌑 Currently learning **Cyber Security & motion design**
-- 💬 Ask me about **React, Next.js & UI/UX**
-- ⚡ Fun fact: *I debug CSS more than I sleep*
+-  Currently learning **Cyber Security & motion design**
+-  Ask me about **React, Next.js & UI/UX**
+-  Fun fact: *I debug CSS more than I sleep*
 
 </td>
 </tr>
@@ -64,7 +64,7 @@ mission  : Build interfaces that make people say "wow"
 
 <div align="center">
 
-## 🗡️ Arsenal
+##  Arsenal
 
 <img src="https://img.shields.io/badge/-HTML5-21262d?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS3-21262d?style=for-the-badge&logo=css3&logoColor=white" />
@@ -86,68 +86,67 @@ mission  : Build interfaces that make people say "wow"
 
 <div align="center">
 
-## 📊 Battle stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&text_color=9ca3af" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=9ca3af" alt="top langs" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=USERNAME&hide_border=true&background=0d1117&ring=8b949e&fire=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=9ca3af&sideLabels=9ca3af&dates=6e7681" alt="streak" />
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
 ## 🏯 Missions
 
-</div>
+*Projects forged through code, infrastructure, and experimentation.*
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🌑 Shadow UI
-A minimalist React component library with a dark, samurai-inspired aesthetic.
+### 🔥 Kiln
+An all-in-one livestreaming application that unifies YouTube, TikTok, Twitch, and Kick events with real-time updates, OBS integration, and customizable stream overlays.
 
-![React](https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=white)
-![TS](https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-21262d?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-21262d?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-21262d?style=flat-square&logo=docker&logoColor=white)
 
-[🔗 Demo](#) · [📂 Repo](#)
+[📂 Repository](https://github.com/SteveJohanes/kiln)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎴 Anime Tracker
-A web app to track the anime you're watching and have finished.
+### 🌐 Kursus Bahasa Online
+A web-based language learning platform developed using PHP and Laravel.
 
-![Next](https://img.shields.io/badge/Next.js-21262d?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-21262d?style=flat-square&logo=tailwindcss&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-21262d?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-21262d?style=flat-square&logo=laravel&logoColor=white)
 
-[🔗 Demo](#) · [📂 Repo](#)
+[📂 Repository](https://github.com/SteveJohanes/kursusbahasaonline)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🗾 Portfolio v3
-Personal portfolio with smooth animations and a dark theme.
+### 🎨 Panelia
+A web application project built with Next.js and TypeScript.
 
-![Vite](https://img.shields.io/badge/Vite-21262d?style=flat-square&logo=vite&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-21262d?style=flat-square&logo=greensock&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-21262d?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=white)
 
-[🔗 Demo](#) · [📂 Repo](#)
+[📂 Repository](https://github.com/SteveJohanes/panelia)
 
 </td>
 <td width="50%" valign="top">
 
-### ⛩️ Next mission
-Currently in planning... *stay tuned* 👀
+### 📚 Simulasi Pembelajaran Bahasa
+A Java-based language learning simulation application with database integration.
+
+![Java](https://img.shields.io/badge/Java-21262d?style=flat-square&logo=openjdk&logoColor=white)
+![Database](https://img.shields.io/badge/Database-21262d?style=flat-square&logo=mysql&logoColor=white)
+
+[📂 Repository](https://github.com/SteveJohanes/SimulasiPembelajaranBahasa-SteveJohaneslesmana)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -158,6 +157,10 @@ Currently in planning... *stay tuned* 👀
 ---
 
 <div align="center">
+
+*⚔️ Build. Experiment. Break. Improve. Repeat.*
+
+</div>
 
 ## 💌 Let's connect
 
