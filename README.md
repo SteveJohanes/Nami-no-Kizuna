@@ -8,15 +8,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2d333b&height=240&section=header&text=Your%20Name&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Code%20Samurai&descAlignY=60&descSize=18" alt="header" />
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/SteveJohanes">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+a+Frontend+Developer+%E2%9B%A9%EF%B8%8F;Crafting+pixel-perfect+interfaces+%F0%9F%97%A1%EF%B8%8F;Code+with+honor%2C+ship+with+discipline;Powered+by+coffee+and+anime+%E2%98%95" alt="typing" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&label=VISITORS&color=30363d&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/USERNAME?label=FOLLOWERS&style=for-the-badge&color=21262d&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/USERNAME?label=STARS&style=for-the-badge&color=30363d&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=SteveJohanes&label=VISITORS&color=30363d&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/SteveJohanes?label=FOLLOWERS&style=for-the-badge&color=21262d&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/SteveJohanes/NAMA-REPO?label=STARS&style=for-the-badge&color=30363d&labelColor=0d1117)
 
 </div>
 
@@ -86,7 +86,7 @@ mission  : Build interfaces that make people say "wow"
 
 <div align="center">
 
-## 🏯 Missions
+##  Missions
 
 *Projects forged through code, infrastructure, and experimentation.*
 
@@ -94,7 +94,7 @@ mission  : Build interfaces that make people say "wow"
 <tr>
 <td width="50%" valign="top">
 
-### 🔥 Kiln
+###  Kiln
 An all-in-one livestreaming application that unifies YouTube, TikTok, Twitch, and Kick events with real-time updates, OBS integration, and customizable stream overlays.
 
 ![NestJS](https://img.shields.io/badge/NestJS-21262d?style=flat-square&logo=nestjs&logoColor=white)
@@ -108,7 +108,7 @@ An all-in-one livestreaming application that unifies YouTube, TikTok, Twitch, an
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Kursus Bahasa Online
+###  Kursus Bahasa Online
 A web-based language learning platform developed using PHP and Laravel.
 
 ![PHP](https://img.shields.io/badge/PHP-21262d?style=flat-square&logo=php&logoColor=white)
@@ -121,7 +121,7 @@ A web-based language learning platform developed using PHP and Laravel.
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Panelia
+###  Panelia
 A web application project built with Next.js and TypeScript.
 
 ![Next.js](https://img.shields.io/badge/Next.js-21262d?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -132,7 +132,7 @@ A web application project built with Next.js and TypeScript.
 </td>
 <td width="50%" valign="top">
 
-### 📚 Simulasi Pembelajaran Bahasa
+###  Simulasi Pembelajaran Bahasa
 A Java-based language learning simulation application with database integration.
 
 ![Java](https://img.shields.io/badge/Java-21262d?style=flat-square&logo=openjdk&logoColor=white)
@@ -162,7 +162,7 @@ A Java-based language learning simulation application with database integration.
 
 </div>
 
-## 💌 Let's connect
+##  Let's connect
 
 <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:email@you.com"><img src="https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -172,13 +172,13 @@ A Java-based language learning simulation application with database integration.
 
 <br/><br/>
 
-> 🥷 *"Fall seven times, stand up eight."*
+> *"Fall seven times, stand up eight."*
 > — Japanese proverb
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2d333b&height=120&section=footer" alt="footer" />
 
-<sub>Thanks for stopping by ⛩️</sub>
+<sub>Thanks for stopping by </sub>
 
 </div>
