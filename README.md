@@ -161,11 +161,10 @@ A Java-based language learning simulation application with database integration.
 
 ##  Let's connect
 
-<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:email@you.com"><img src="https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-21262d?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://twitter.com/USERNAME"><img src="https://img.shields.io/badge/Twitter-21262d?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://yoursite.dev"><img src="https://img.shields.io/badge/Portfolio-21262d?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/stevejohanes/"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:johs9021@gmail.com"><img src="https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/stcshennn"><img src="https://img.shields.io/badge/Instagram-21262d?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://stevejohaneslesmana.my.id"><img src="https://img.shields.io/badge/Portfolio-21262d?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <br/><br/>
 
