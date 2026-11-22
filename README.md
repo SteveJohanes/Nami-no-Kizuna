@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2d333b&height=240&section=header&text=Your%20Name&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Code%20Samurai&descAlignY=60&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2d333b&height=240&section=header&text=Steve%20Johanes&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Code%20Samurai&descAlignY=60&descSize=18" alt="header" />
 
 <a href="https://github.com/SteveJohanes">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+a+Frontend+Developer+%E2%9B%A9%EF%B8%8F;Crafting+pixel-perfect+interfaces+%F0%9F%97%A1%EF%B8%8F;Code+with+honor%2C+ship+with+discipline;Powered+by+coffee+and+anime+%E2%98%95" alt="typing" />
@@ -16,7 +16,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SteveJohanes&label=VISITORS&color=30363d&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/SteveJohanes?label=FOLLOWERS&style=for-the-badge&color=21262d&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/SteveJohanes/NAMA-REPO?label=STARS&style=for-the-badge&color=30363d&labelColor=0d1117)
 
 </div>
 
