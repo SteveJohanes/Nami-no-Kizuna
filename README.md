@@ -36,8 +36,6 @@
 <!-- Replace with your favorite anime gif or image -->
 <img src="./miku.jpg" width="280" alt="anime" />
 
-<sub>✦ *Swap in your favorite character* ✦</sub>
-
 </td>
 <td>
 
